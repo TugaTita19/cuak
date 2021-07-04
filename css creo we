@@ -1,0 +1,10 @@
+
+.navbar{
+    background-color: yellow;
+}
+.navbar ul li a {
+    color: rgb(255, 0, 0);
+    list-style: none;
+    flex-direction: row;
+    width: 100%;
+}
